@@ -1,4 +1,8 @@
 # Deep Learning
+LaTeX: https://www.cmor-faculty.rice.edu/~heinken/latex/symbols.pdf
+
+#### Information Theory
+- [Probability Distribution](./information-theory/probability-distribution.md)
 
 #### Linear Algebra
 - [Eigen Decomposition](./linear-algebra/eigen-decomposition.md)
@@ -7,6 +11,3 @@
 
 #### Neural Network
 - [CNN](./neural-network/cnn.md)
-
-#### Probability
-- [Distribution](./probability/distribution.md)
