@@ -1,8 +1,9 @@
 # Deep Learning
 
-## Linear Algebra
+#### Linear Algebra
 - [Eigen Decomposition](./linear-algebra/eigen-decomposition.md)
-- [Norm and Rank](./linear-algebra/norm-rank.md)
 - [Singular Value Decomposition](./linear-algebra/singular-value-decomposition.md)
+- [Norm and Rank](./linear-algebra/norm-rank.md)
 
-## Neural Network
+#### Neural Network
+- [CNN](./neural-network/cnn.md)
