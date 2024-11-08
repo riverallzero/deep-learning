@@ -1,5 +1,5 @@
 # Deep Learning
-LaTeX: https://www.cmor-faculty.rice.edu/~heinken/latex/symbols.pdf
+LaTeX: [https://www.cmor-faculty.rice.edu/~heinken/latex/symbols.pdf](https://www.cmor-faculty.rice.edu/~heinken/latex/symbols.pdf)
 
 #### Information Theory
 - [Probability Distribution](./information-theory/probability-distribution.md)
