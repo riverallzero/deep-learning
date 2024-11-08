@@ -18,10 +18,12 @@
 
 ## Layer
 ### Hidden Layer 1
-$b_j = \sigma(\sum_{i=0}^7 W_{ij}^{(1)} \times a_i + bias_{j}^{(1)})$
+$`b_j = \sigma(\sum_{i=0}^7 W_{ij}^{(1)} \times a_i + bias_{j}^{(1)})`$
 
 ### Hidden Layer 2
+```math
 $c_k = \sigma(\sum_{j=0}^2 W_{jk}^{(2)} \times b_j + bias_{k}^{(2)})$
+```
 
 ### Output Layer
 $d_m = \sigma(\sum_{k=0}^2 W_{km}^{(3)} \times c_k + bias_{m}^{(3)})$
