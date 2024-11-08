@@ -8,4 +8,5 @@
     - [Norm and Rank](./linear-algebra/norm-rank.md)
 - [Neural Network](./neural-network/README.md)
     - [CNN](./neural-network/cnn.md)
-    
+- [Probability](./probability/README.md)
+    - [Distribution](./probability/distribution.md)

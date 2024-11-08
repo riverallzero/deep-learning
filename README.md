@@ -7,3 +7,6 @@
 
 #### Neural Network
 - [CNN](./neural-network/cnn.md)
+
+#### Probability
+- [Distribution](./probability/distribution.md)
