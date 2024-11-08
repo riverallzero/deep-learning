@@ -57,7 +57,7 @@ Hidden Layer 2      Output Layer         Target
 ```
 
 ### 1. Calculate Error
-For each output neuron, the error is calculated as the difference between the target value ($t$) and the actual output value ($d$).
+For each output neuron, the error is calculated as the difference between the target value($$t$$) and the actual output value ($$d$$).
 
 - $$E_{d_0} = t_0 - d_0 = 0.8 - 0.3 = 0.5$$
 - $$E_{d_1} = t_1 - d_1 = 0.2 - 0.7 = -0.5$$
