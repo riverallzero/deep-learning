@@ -40,7 +40,7 @@ $$v_1=1, v_2=1 \rightarrow \begin{bmatrix} 1 \\ 1 \end{bmatrix}$$
 #### Sort, descending & normalize:
 $$\begin{bmatrix} 1 & -1 \\ 1 & 1 \end{bmatrix} \rightarrow U= \begin{bmatrix} \frac{1}{\sqrt{2}} & -\frac{1}{\sqrt{2}} \\ \frac{1}{\sqrt{2}} & \frac{1}{\sqrt{2}} \end{bmatrix}$$
 
-### ii) Computing $A^TA$
+### ii) Computing $$A^TA$$
 
 $$A^TA = \begin{bmatrix} 3 & -1 \\ 1 & 3 \\ 1 & 1 \end{bmatrix}\begin{bmatrix} 3 & 1 & 1 \\ -1 & 3 & 1 \end{bmatrix} = \begin{bmatrix} 10 & 0 & 2 \\ 0 & 10 & 4 \\ 2 & 4 & 2 \end{bmatrix}$$
 
@@ -78,7 +78,7 @@ $$\begin{bmatrix} 1 & 2 & 1 \\ 2 & -1 & 2 \\ 1 & 0 & -5 \end{bmatrix} \rightarro
 
 $$V^T=\begin{bmatrix} \frac{1}{\sqrt{6}} & \frac{2}{\sqrt{6}} & \frac{1}{\sqrt{6}} \\ \frac{2}{\sqrt{5}} & -\frac{1}{\sqrt{5}} & 0 \\ \frac{1}{\sqrt{30}} & \frac{2}{\sqrt{30}} & -\frac{5}{\sqrt{30}} \end{bmatrix}$$
 
-### iii) Singular Values ($\Sigma$)
+### iii) Singular Values ($$\Sigma$$)
 $$\begin{bmatrix} \sqrt{12} & 0 & 0 \\ 0 & \sqrt{10} & 0 \\ 0& 0 & 0 \end{bmatrix} \rightarrow \Sigma = \begin{bmatrix} \sqrt{12} & 0 & 0 \\ 0 & \sqrt{10} & 0 \end{bmatrix}$$
 
 Therefore:
