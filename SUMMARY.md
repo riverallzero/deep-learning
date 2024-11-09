@@ -12,3 +12,5 @@
 - [Neural Network](./neural-network/README.md)
     - [CNN](./neural-network/cnn.md)
     - [MPNN](./neural-network/mpnn.md)
+    - [Set2Set Pooling](./neural-network/set2set.md)
+    

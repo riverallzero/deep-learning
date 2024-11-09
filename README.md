@@ -15,3 +15,4 @@ LaTeX: [https://www.cmor-faculty.rice.edu/~heinken/latex/symbols.pdf](https://ww
 #### Neural Network
 - [CNN](./neural-network/cnn.md)
 - [MPNN](./neural-network/mpnn.md)
+- [Set2Set Pooling](./neural-network/set2set.md)
