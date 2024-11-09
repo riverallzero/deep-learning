@@ -19,7 +19,7 @@ takes a continuous value with highest probability at the mean $$\mu$$, with prob
 
 $$X \sim N(\mu,\sigma^2)$$
 
-$$f(x)=\frac{1}{\sqrt{2\pi}\sigma}exp\left(\frac{-{(x-\mu)}^2}{2\sigma^2}\right), \ -\inf<x, \mu < \inf, \sigma > 0$$
+$$f(x)=\frac{1}{\sqrt{2\pi}\sigma}e^{\frac{-{(x-\mu)}^2}{2\sigma^2}}, \ -\inf<x, \mu < \inf, \sigma > 0$$
 
 ## Poisson
 takes the integer value $$k$$ with probability of occurrence proportional, where $$m$$ is the average rate of occurrence($$\mu$$), e.g. number of emails received in an hour
