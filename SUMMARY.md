@@ -4,6 +4,7 @@
 
 - [Information Theory](./information-theory/README.md)
     - [Probability Distribution](./information-theory/probability-distribution.md)
+    - [Entropy, Cross Entropy and KL Divergence](./information-theory/entropy-kl.md)
 - [Linear Algebra](./linear-algebra/README.md)
     - [Eigen Decomposition](./linear-algebra/eigen-decomposition.md)
     - [Singular Value Decomposition](./linear-algebra/singular-value-decomposition.md)

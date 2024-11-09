@@ -3,6 +3,7 @@ LaTeX: [https://www.cmor-faculty.rice.edu/~heinken/latex/symbols.pdf](https://ww
 
 #### Information Theory
 - [Probability Distribution](./information-theory/probability-distribution.md)
+- [Entropy, Cross Entropy and KL Divergence](./information-theory/entropy-kl.md)
 
 #### Linear Algebra
 - [Eigen Decomposition](./linear-algebra/eigen-decomposition.md)
