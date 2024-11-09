@@ -11,3 +11,4 @@
     - [Norm and Rank](./linear-algebra/norm-rank.md)
 - [Neural Network](./neural-network/README.md)
     - [CNN](./neural-network/cnn.md)
+    - [MPNN](./neural-network/mpnn.md)
