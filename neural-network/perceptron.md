@@ -18,7 +18,7 @@ The perceptron calculates the weighted sum of inputs, adds a bias ($$b$$), and a
 
 1. **Weighted Sum**: $$Z = \sum_i W_i \cdot x_i + b = W_1 \cdot x_1 + W_2 \cdot x_2 + b$$
 
-2. **Activation Function**: $$\sigma(Z): if \ Z > 0=1, else \ 0$$
+2. **Activation Function**: $$\sigma(Z)=if \ Z > 0=1, else \ 0$$
 
 ---
 
