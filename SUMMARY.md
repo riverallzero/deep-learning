@@ -10,6 +10,7 @@
     - [Singular Value Decomposition](./linear-algebra/singular-value-decomposition.md)
     - [Norm and Rank](./linear-algebra/norm-rank.md)
 - [Neural Network](./neural-network/README.md)
+    - [Perceptron](./neural-network/perceptron.md)
     - [CNN](./neural-network/cnn.md)
     - [MPNN](./neural-network/mpnn.md)
     - [Set2Set Pooling](./neural-network/set2set.md)
