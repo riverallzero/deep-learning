@@ -3,7 +3,7 @@ LaTeX: [https://www.cmor-faculty.rice.edu/~heinken/latex/symbols.pdf](https://ww
 
 ### Load Map
 1. [Perceptron](./neural-network/perceptron.md)
-2. [MLP](./neural-network/mlp.md)
+2. [Multi Layer Perceptrons(MLP)](./neural-network/mlp.md)
 3. [Gradient Descent](./neural-network/gradient-descent.md)
 4. [RNN(Recurrent Neural Network)]()
 5. [LSTM(Long Short Term Memory)]()
@@ -24,7 +24,7 @@ LaTeX: [https://www.cmor-faculty.rice.edu/~heinken/latex/symbols.pdf](https://ww
 
 #### Neural Network
 - [Perceptron](./neural-network/perceptron.md)
-- [MLP](./neural-network/mlp.md)
+- [Multi Layer Perceptrons(MLP)](./neural-network/mlp.md)
 - [CNN](./neural-network/cnn.md)
 - [MPNN](./neural-network/mpnn.md)
 - [Set2Set Pooling](./neural-network/set2set.md)

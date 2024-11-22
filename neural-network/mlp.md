@@ -1,7 +1,13 @@
-# MLP(Multi Layer Perceptron)
-To overcome the limitations of the perceptron, adding hidden layers( enabling it to solve non-linear problems and learn complex patterns and features.
-It forms the backbone of many modern neural network architectures.
+# MLP(Multi Layer Perceptrons)
+**Multi Layer Perceptrons(MLP)** is an extension of the basic perceptron architecture. While a simple perceptron is limited to binary classification and can only solve linearly separable problems, MLP overcomes these limitations by:
 
+- Adding hidden layers between input and output layers
+- Using non-linear activation functions
+- Enabling it to solve non-linear problems and learn complex patterns
+
+This architecture forms the backbone of many modern neural network architectures.
+
+## Architecture
 ```
   Input Layer    Hidden Layer 1     Hidden Layer 2      Output Layer
   (8 neurons)     (3 neurons)        (3 neurons)         (2 neurons)
