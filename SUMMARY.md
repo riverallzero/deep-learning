@@ -12,6 +12,7 @@
 - [Neural Network](./neural-network/README.md)
     - [Perceptron](./neural-network/perceptron.md)
     - [Multi Layer Perceptrons(MLP)](./neural-network/mlp.md)
+    - [Gradient Descent](./neural-network/gradient-descent.md)
     - [CNN](./neural-network/cnn.md)
     - [MPNN](./neural-network/mpnn.md)
     - [Set2Set Pooling](./neural-network/set2set.md)
