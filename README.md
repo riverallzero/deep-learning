@@ -3,15 +3,13 @@ LaTeX: [https://www.cmor-faculty.rice.edu/~heinken/latex/symbols.pdf](https://ww
 
 ### Load Map
 1. [Perceptron](./neural-network/perceptron.md)
-2. [Multi Layer Perceptron]()
-3. [Neural Network]()
-4. [Gradient Descent]()
-5. [Back Propagation]()
-6. [RNN(Recurrent Neural Network)]()
-7. [LSTM(Long Short Term Memory)]()
-8. [GRU(Gated Recurrent Unit)]()
-9. [GGNN(Gated Graph Neural Network)]()
-10. [MPNN(Message Passing Neural Network)]()
+2. [MLP(Multi Layer Perceptron)](./neural-network/mlp.md)
+3. [Gradient Descent](./neural-network/gradient-descent.md)
+4. [RNN(Recurrent Neural Network)]()
+5. [LSTM(Long Short Term Memory)]()
+6. [GRU(Gated Recurrent Unit)]()
+7. [GGNN(Gated Graph Neural Network)]()
+8. [MPNN(Message Passing Neural Network)]()
 
 ### Table of Contents
 
@@ -26,6 +24,7 @@ LaTeX: [https://www.cmor-faculty.rice.edu/~heinken/latex/symbols.pdf](https://ww
 
 #### Neural Network
 - [Perceptron](./neural-network/perceptron.md)
+- [MLP](./neural-network/mlp.md)
 - [CNN](./neural-network/cnn.md)
 - [MPNN](./neural-network/mpnn.md)
 - [Set2Set Pooling](./neural-network/set2set.md)
