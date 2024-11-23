@@ -1,7 +1,7 @@
 # Deep Learning
 LaTeX: [https://www.cmor-faculty.rice.edu/~heinken/latex/symbols.pdf](https://www.cmor-faculty.rice.edu/~heinken/latex/symbols.pdf)
 
-### Load Map
+### Deep Learning
 1. [Perceptron](./neural-network/perceptron.md)
 2. [Multi Layer Perceptrons(MLP)](./neural-network/mlp.md)
 3. [Gradient Descent](./neural-network/gradient-descent.md)
