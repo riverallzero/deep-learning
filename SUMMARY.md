@@ -13,6 +13,7 @@
     - [Perceptron](./neural-network/perceptron.md)
     - [Multi Layer Perceptrons(MLP)](./neural-network/mlp.md)
     - [Gradient Descent](./neural-network/gradient-descent.md)
+    - [ADAM(Adaptive Moment Estimation)](./neural-network/adam.md)
     - [CNN](./neural-network/cnn.md)
     - [MPNN](./neural-network/mpnn.md)
     - [Set2Set Pooling](./neural-network/set2set.md)
