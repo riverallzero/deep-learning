@@ -68,5 +68,5 @@ ADAM combines momentum and RMSprop, using both first and second moments of the g
 From the original paper (Kingma & Ba, 2014):
 - Learning rate($$\alpha$$): 0.001 (default)
 - First moment decay rate($$\beta_1$$): 0.9
-- Second moment decay rate($$\beta_2$): 0.999
+- Second moment decay rate($$\beta_2$$): 0.999
 - Epsilon($$\epsilon$$): $$10^{-8}$$
